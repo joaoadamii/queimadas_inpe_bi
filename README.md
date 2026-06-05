@@ -58,4 +58,3 @@ Coleta, tratamento, análise e visualização estratégica de dados de queimadas
 ```
 
 --------
-
